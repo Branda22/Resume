@@ -1,4 +1,7 @@
 /* CUSTOM CSS */
+.fullHeight	{
+  height: 100%;
+}
 
 .fullWidth {
    width: 100%;
@@ -11,3 +14,5 @@ ul.experience  {
   padding: 2px;
   list-style-type:none;
 }
+
+
